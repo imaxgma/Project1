@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: 'Inter', 'Arial', sans-serif;
+  color:#000;
+}
+  
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+  
+a {
+  background-color: transparent;
+  color: #2f80ed;
+  text-decoration: none;
+}
+ 
+img {
+  border-style: none;
+}
+  
+*{
+  margin: 0;
+}
+  
+@font-face {
+  src: url(./blocks/fonts/Inter/Inter/Inter-Regular.woff);
+  font-family: 'Inter';
+  font-style: normal;
+} 
+
+@font-face {
+  src: url(./blocks/fonts/Inter/Inter/Inter-SemiBold.woff);
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+} 
