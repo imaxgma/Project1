@@ -1,0 +1,6 @@
+.kaufman .table__cell_theme_dark { /* Перебиваются стили класса без модификатора, уточнил родительской секцией */
+  width: 200px;
+  color: white;
+  margin-right: 0;
+  margin-top: 80px;
+}

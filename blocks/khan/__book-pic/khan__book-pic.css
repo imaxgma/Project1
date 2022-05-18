@@ -1,0 +1,13 @@
+.khan__book-pic{
+  width: 620px;
+  height: 608px;
+  margin-right: 48px;
+  overflow: hidden;
+  display: inline-block;
+  
+}
+
+.khan__book-pic img{
+  width: 100%;
+  opacity: .9;
+}
