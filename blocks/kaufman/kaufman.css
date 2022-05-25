@@ -1,11 +1,7 @@
 .kaufman{
     position: relative;
+    z-index: 1;
     background-color: #1f1f1f;
     padding:90px 0;
     overflow: hidden;
-  }
-
-  .kaufman *:not(.rotation){
-    position: relative;
-    z-index: 1;
   }
