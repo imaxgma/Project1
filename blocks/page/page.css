@@ -1,19 +1,8 @@
 .page {
-    min-width: 1100px;
-    max-width: 1600px;
-    margin: 0 auto;
-  }
-      
-  @font-face {
-    src: url(../../fonts/Inter/Inter/Inter-Regular.woff);
-    font-family: 'Inter';
-    font-style: normal;
-  } 
-  
-  @font-face {
-    src: url(../../fonts/Inter/Inter/Inter-SemiBold.woff);
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-  } 
+  font-family: 'Inter', 'Arial', sans-serif;
+  color:#000;
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+}
   

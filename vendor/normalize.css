@@ -1,10 +1,4 @@
-body {
-    margin: 0;
-    font-family: 'Inter', 'Arial', sans-serif;
-    color:#000;
-  }
-    
-  a {
+ a {
     background-color: transparent;
     color: #2f80ed;
     text-decoration: none;
